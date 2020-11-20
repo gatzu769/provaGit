@@ -17,6 +17,10 @@ public class Archivio {
         return listaAziende;
     }
 
+    public void test(){
+    	return;
+    }
+
     public void addAzienda(Azienda azienda) {
         this.listaAziende.add(azienda);
     }
